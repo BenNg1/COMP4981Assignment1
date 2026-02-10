@@ -1,0 +1,6 @@
+# build outputs
+http_server
+*.o
+
+# temp test artifacts
+/tmp/http_server_test.log

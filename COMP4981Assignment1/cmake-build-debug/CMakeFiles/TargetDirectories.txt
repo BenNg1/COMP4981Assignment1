@@ -1,0 +1,3 @@
+/cygdrive/c/BCIT/Term 4/COMP4981/Assignment1/COMP4981Assignment1/cmake-build-debug/CMakeFiles/http_server.dir
+/cygdrive/c/BCIT/Term 4/COMP4981/Assignment1/COMP4981Assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/BCIT/Term 4/COMP4981/Assignment1/COMP4981Assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
